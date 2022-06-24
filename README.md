@@ -2,7 +2,7 @@ Katas de JavaScript 1
 =====================
 
 <h2>Preview</h2>
-<div><img scr="assets/img/preview.gif" alt="preview"/></div>
+<div><img src="assets/img/preview.gif" alt="preview"/></div>
 
 <h3>Tarefa</h3>
 
