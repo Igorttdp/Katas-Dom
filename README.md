@@ -2,10 +2,9 @@ Katas de JavaScript 1
 =====================
 
 <h2>Preview</h2>
-<div><img href="assets/img/preview.gif"/></div>
+<div><img href="assets\img\preview.gif"/></div>
 
 <h3>Tarefa</h3>
-======
 
 1.  oneThroughTwenty - Retornar os números de 1 a 20. (1, 2, 3,...,
     19, 20)
